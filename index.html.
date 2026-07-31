@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agro Forte - Futuro Sustentável</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>🌱 Agro Forte, Futuro Sustentável</h1>
+    <p>Equilíbrio entre Produção e Meio Ambiente</p>
+</header>
+
+<section class="projeto">
+    <h2>Projeto Escolhido</h2>
+    <h3>Corredor Verde nas Propriedades Rurais</h3>
+
+    <img src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=900"
+         alt="Fazenda Sustentável">
+
+    <p>
+        O projeto cria corredores de vegetação nativa para proteger rios,
+        preservar animais e melhorar a produção agrícola.
+    </p>
+
+    <button onclick="mostrarBeneficios()">Mostrar Benefícios</button>
+
+    <div id="beneficios"></div>
+</section>
+
+<footer>
+    Desenvolvido para o tema Agro Forte 2026.
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
